@@ -116,7 +116,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://doi.org/10.21203/rs.3.rs-5746284/v1) file for more details.
 
 ---
 
